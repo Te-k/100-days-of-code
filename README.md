@@ -1,22 +1,31 @@
 # I've joined the #100DaysOfCode Challenge.
 
 ## Contents
-* [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## If you've decided to join:
-1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2. Fork this repo and commit to the [Log](log.md) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3. **Code minimum an hour every day for the next 100 days.**
-4. Change the date in [Rules](rules.md) to the day you've started the challenge.
-5. Delete the examples in the log, or comment them out, and start filling it with your own content.
-6. **Tweet your progress every day using the #100DaysOfCode hashtag.**
-7. Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets all the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-8. Important: Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-9. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+## Here are my rules
 
-## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+1. I will code for 100 days at least one hour per day
+2. My objective is to learn how to write better code, learn more devops tools and lear Go (see my plan here after)
+3. I will publish as much open source code as I can, with some restriction (or delay)
+4. I won't consider the development done during my work (except sometimes if I am doing a lot of dev :p)
+2. I will write a daily log [here](log.md)
+5. I will compile interesting resources [here](resources.md)
+3. I will encourage other people to join or to keep the challenge going, especially [@sa0un](https://twitter.com/sa0un) and [@daniellecrobins](https://twitter.com/daniellecrobins) who motivated me for this challenge
+
+## Refs
+
+1. See [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
+2. Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets all the tweets that contain the #100DaysOfCode hashtag.
+
+## My plan
+
+Here are my plans for these 100 days of code
+
+* Learn the Go language, because it is a compiled language with very good support for security libraries
+* Learn how to write better python, especially in code organisation and web development
+* Work and end a project not public yet, but which will finally be released (called SecretProject1 in the logs)
+* Help a friend in her research with a second secret project (called SecretProject2)
+* Continue developing and publishing my [analyst scripts](https://github.com/Te-k/analyst-scripts)
+* Try to sort out the different projects I have in my mind and work on them

@@ -6,7 +6,7 @@
 
 **Thoughts:** Lot of motivation, but I am not learning that much when doing such script (I have already used python-misp and python-yara a lot)
 
-**Code: **
+**Code:**
 
 * [python-misp](https://github.com/Te-k/python-misp)
 * [yaraxcheck.py](https://github.com/Te-k/analyst-scripts/blob/master/misp/yaraxcheck.py)

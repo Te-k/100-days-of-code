@@ -27,3 +27,10 @@
 * [Password Strength meter](https://css-tricks.com/password-strength-meter/)
 * [HTML5 Meter element](https://css-tricks.com/html5-meter-element/)
 
+### Day 3: January 20th
+
+**Today's Progress**: I started to rewrite my HTTP scanner with more ideas, it need a bit more work but it will be functional soon (although some ideas I have will be hard to implement)
+
+**Code:** Not published yet, hope to have a v1 tomorrow
+
+

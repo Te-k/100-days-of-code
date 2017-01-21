@@ -27,10 +27,16 @@
 * [Password Strength meter](https://css-tricks.com/password-strength-meter/)
 * [HTML5 Meter element](https://css-tricks.com/html5-meter-element/)
 
-### Day 3: January 20th
+### Day 3: January 19th
 
 **Today's Progress**: I started to rewrite my HTTP scanner with more ideas, it need a bit more work but it will be functional soon (although some ideas I have will be hard to implement)
 
 **Code:** Not published yet, hope to have a v1 tomorrow
+
+### Day 4: January 20th
+
+**Today's Progress**: Damn it seems harder than I thought, there are much more options and the code seems more tricky. HTTPs is a mess and request does not allow to get the certificate ([Issue here](https://github.com/kennethreitz/requests/issues/3826) and it will be a mess to parse the certificate anyway. All this is Trump's fault
+
+**Code:** Grrr
 
 

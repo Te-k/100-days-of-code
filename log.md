@@ -39,4 +39,13 @@
 
 **Code:** Grrr
 
+### Day 5: January 21th
+
+**Today's Progress**: I had some comments on my commit to [python-misp](https://github.com/nbareil/python-misp/pull/4#discussion_r97195404), so I improved the code as proposed, and did a new [pull request](https://github.com/nbareil/python-misp/pull/5). Then did a bunch of work on httpscan, it is crazy that there is no urllib in python allowing to do an HTTP request and get the certificate at the same time. I finally did another request using socket and ssl to have the cert.
+
+**Code:**
+
+* python-misp : [improve attribute download](https://github.com/Te-k/python-misp/commit/73cf9657bef2c13cc3a7215caffa5098fe187769)
+* analyst-tools: [update python-misp and adapt yaraxcheck](https://github.com/Te-k/analyst-scripts/commit/697aff90cdb68210e55665ea6a311ba6ca9f4091)
+
 

@@ -48,4 +48,9 @@
 * python-misp : [improve attribute download](https://github.com/Te-k/python-misp/commit/73cf9657bef2c13cc3a7215caffa5098fe187769)
 * analyst-tools: [update python-misp and adapt yaraxcheck](https://github.com/Te-k/analyst-scripts/commit/697aff90cdb68210e55665ea6a311ba6ca9f4091)
 
+### Day 7: January 23th
+
+**Today's Progress:** I implemented the requests done by redshitzero on OpenOversight [here](https://github.com/lucyparsons/OpenOversight/pull/168). Everything was easy to do, I hope the code will be integrated soon
+
+**Code:** [here](https://github.com/lucyparsons/OpenOversight/pull/168/commits/58679fb7efd952de4838ac0a468ff9a82ecdae0b)
 

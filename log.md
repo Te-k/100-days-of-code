@@ -54,6 +54,10 @@
 
 **Code:** [here](https://github.com/lucyparsons/OpenOversight/pull/168/commits/58679fb7efd952de4838ac0a468ff9a82ecdae0b)
 
-### Day * : January 25th
+### Day 8 : January 24th
 
 **Today's progress:** Wanted to play with Twitter API but got lost in dirty discord API tests. Will do better tomorrow
+
+### Day 9: January 25th
+
+**Today's progress:** played with gophish to improve my http scanner with phishing kit signatures. Now I have to write signature system :p

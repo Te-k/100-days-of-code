@@ -60,4 +60,15 @@
 
 ### Day 9: January 25th
 
-**Today's progress:** played with gophish to improve my http scanner with phishing kit signatures. Now I have to write signature system :p
+**Today's progress:** played with gophish to improve my http scanner with phishing kit signatures. Now I have to write signature system :p. Edit: I actually implemented the signature code this night
+
+### Day 11: January 27th
+
+**Today's progress:** Improved and cleaned code of the scanner
+
+**Code**:
+
+* [you can provide a specific signature file for test](https://github.com/Te-k/analyst-scripts/commit/f0ac6efdfff1abf83dd7a5f41c2bc4a22500bce6)
+* [replace print by logger](https://github.com/Te-k/analyst-scripts/commit/5770cf0af71393ae3fb901eee01704e5be84e5e0)
+* [Add output](https://github.com/Te-k/analyst-scripts/commit/a5e6aa84c12b7b2864e800048b4f2b1fde54abef)
+* [cleaning code](https://github.com/Te-k/analyst-scripts/commit/01d21c9e62acd6f41421545a210fd82524a4be0c)

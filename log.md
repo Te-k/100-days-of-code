@@ -72,3 +72,11 @@
 * [replace print by logger](https://github.com/Te-k/analyst-scripts/commit/5770cf0af71393ae3fb901eee01704e5be84e5e0)
 * [Add output](https://github.com/Te-k/analyst-scripts/commit/a5e6aa84c12b7b2864e800048b4f2b1fde54abef)
 * [cleaning code](https://github.com/Te-k/analyst-scripts/commit/01d21c9e62acd6f41421545a210fd82524a4be0c)
+
+### Day 12: January 28th
+
+**Today's progress:** Did a bit of work on the scanner but quite boring now, and not useful yet, we'll see later to finish it. SSL makes me crazy. Continued to learn Go.
+
+**Code**:
+
+* [Not much](https://github.com/Te-k/analyst-scripts/commit/81c0c83b345191c05928ed1824e0de0424f51ab4)

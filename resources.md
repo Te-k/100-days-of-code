@@ -10,3 +10,7 @@
 
 * [The HTML5 meter Element](https://css-tricks.com/html5-meter-element/)
 * [Password Strength meter](https://css-tricks.com/password-strength-meter/)
+
+### Go
+
+* [Golang Doc](https://golang.org/doc/)

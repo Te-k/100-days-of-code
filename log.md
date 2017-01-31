@@ -80,3 +80,7 @@
 **Code**:
 
 * [Not much](https://github.com/Te-k/analyst-scripts/commit/81c0c83b345191c05928ed1824e0de0424f51ab4)
+
+### Day 14: January 30th
+
+**Today's progress:** Started to play again with Twitter, but it appears that you need a database if you wanna store this, so started to play with mongo engine, and then you also need a cool cli, so I started to look for sub command tools... Never ending quest and I have an ugly partially working code. Will do better tomorrow

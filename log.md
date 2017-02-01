@@ -84,3 +84,7 @@
 ### Day 14: January 30th
 
 **Today's progress:** Started to play again with Twitter, but it appears that you need a database if you wanna store this, so started to play with mongo engine, and then you also need a cool cli, so I started to look for sub command tools... Never ending quest and I have an ugly partially working code. Will do better tomorrow
+
+### Day 15: January 31th
+
+**Today's progress:** Continued to work on Twitter stuff. I have tosolve this issue with plugins before anything else, and I think that I have find a cool idea. We'll see if it works tomorrow. Oh also, I finally published [pyregripper](https://github.com/Te-k/pyregripper) (which acknowledge the fact that I won't work on it anymore likely).

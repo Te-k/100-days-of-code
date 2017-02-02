@@ -88,3 +88,7 @@
 ### Day 15: January 31th
 
 **Today's progress:** Continued to work on Twitter stuff. I have tosolve this issue with plugins before anything else, and I think that I have find a cool idea. We'll see if it works tomorrow. Oh also, I finally published [pyregripper](https://github.com/Te-k/pyregripper) (which acknowledge the fact that I won't work on it anymore likely).
+
+### Day 11: February 1st
+
+**Today's progress:** Finally managed to have a clear subcommand code for the twitter stuff. Import in the database seems to work, I have to do more tests. Great !

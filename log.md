@@ -92,3 +92,11 @@
 ### Day 11: February 1st
 
 **Today's progress:** Finally managed to have a clear subcommand code for the twitter stuff. Import in the database seems to work, I have to do more tests. Great !
+
+### Day 12: February 2nd
+
+**Today's progress:** Some work done on Twitter to import stuff in mongoengine, still some work to get everything together
+
+### Day 15: February 5th
+
+**Today's progress:** It has been a long week, but I have done some more work with Twitter API. I hate that rate limit

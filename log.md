@@ -100,3 +100,11 @@
 ### Day 15: February 5th
 
 **Today's progress:** It has been a long week, but I have done some more work with Twitter API. I hate that rate limit
+
+### Day 16: February 6th
+
+**Today's progress:** First useful commands on trickybird, everything seems to work well. I Still have to create more commands and make everything working all together.
+
+### Day 17: February 7th
+
+**Today's progress:** Nothing fancy, but I finally finished my PR for OO, here is the [code](https://github.com/Te-k/OpenOversight/commit/cfa39cb9f58362b4c947d973102a9231aadec9fe)

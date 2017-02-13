@@ -108,3 +108,7 @@
 ### Day 17: February 7th
 
 **Today's progress:** Nothing fancy, but I finally finished my PR for OO, here is the [code](https://github.com/Te-k/OpenOversight/commit/cfa39cb9f58362b4c947d973102a9231aadec9fe)
+
+### Day 22: February 12th
+
+**Today's progress:** Hard to keep up the challenge last week, I will have to do more than 100 days I guess. Today more work on twitter, but I should really work on some interesting example, it would be more fun

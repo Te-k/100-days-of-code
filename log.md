@@ -112,3 +112,7 @@
 ### Day 22: February 12th
 
 **Today's progress:** Hard to keep up the challenge last week, I will have to do more than 100 days I guess. Today more work on twitter, but I should really work on some interesting example, it would be more fun
+
+### Day 23: February 13th
+
+**Today's progress:** Back on goose check, Javascript is a mess but it starts to work. Still a bit of work, then I will have to clean all that code.

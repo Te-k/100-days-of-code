@@ -116,3 +116,7 @@
 ### Day 23: February 13th
 
 **Today's progress:** Back on goose check, Javascript is a mess but it starts to work. Still a bit of work, then I will have to clean all that code.
+
+### Day 28: February 18th
+
+**Today's progress:** I know, I know, it was hard this week, but today I am travelling and I like coding in random airports. I have done some cool stuff on the Twitter tool, now I have to fix this damn bugs with tweepy and improve graphics. Almost releasable, still a bit of work !

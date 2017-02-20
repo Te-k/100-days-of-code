@@ -120,3 +120,7 @@
 ### Day 28: February 18th
 
 **Today's progress:** I know, I know, it was hard this week, but today I am travelling and I like coding in random airports. I have done some cool stuff on the Twitter tool, now I have to fix this damn bugs with tweepy and improve graphics. Almost releasable, still a bit of work !
+
+### Day 29: February 19th
+
+**Today's progress:** IT is late but I did it, this Twitter stuff starts to work quite well. Still a bit of work here and there and then play with it

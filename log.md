@@ -123,4 +123,9 @@
 
 ### Day 29: February 19th
 
-**Today's progress:** IT is late but I did it, this Twitter stuff starts to work quite well. Still a bit of work here and there and then play with it
+**Today's progress:** It is late but I did it, this Twitter stuff starts to work quite well. Still a bit of work here and there and then play with it
+
+### Day 30: February 20th
+
+**Today's progress:** Done some javascript today, I still hate that language but I get better at making it working. I am still avoiding any design I can but at one point or the other, it will be definitely needed :(
+

@@ -129,3 +129,6 @@
 
 **Today's progress:** Done some javascript today, I still hate that language but I get better at making it working. I am still avoiding any design I can but at one point or the other, it will be definitely needed :(
 
+### Day 31: February 21th
+
+**Today's progress:** Ah so cool, now that everything works almost well, it is really easy to biuld new commands, I like it !
